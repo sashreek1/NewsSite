@@ -4,7 +4,7 @@ A flask website to display the latest news
 # Usage
 * Clone this repo and start a virualenv such that the directory looks like this :
 ```
-news_site/
+NewsSite/
   venv/
   app/
     get_news.py
