@@ -2,7 +2,7 @@
 A flask website to display the latest news  
   
 # Usage
-* clone this repo and start a virualenv such that the directory looks like this :
+* Clone this repo and start a virualenv such that the directory looks like this :
 ```
 news_site/
   venv/
@@ -15,3 +15,7 @@ news_site/
         bootstrap.css
         main.css
 ```
+* Run the python file named news_site.py
+* Choose whether you want to sort by time published or popularity
+* Open the link porvided
+* Enjoy your news
