@@ -9,7 +9,7 @@ NewsSite/
   app/
     get_news.py
     news_site.py
-    templetes/
+    templates/
       index.html
       css/
         bootstrap.css
