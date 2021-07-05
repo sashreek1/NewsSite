@@ -18,4 +18,7 @@ NewsSite/
 * Run the python file named news_site.py
 * Choose whether you want to sort by time published or popularity
 * Open the link porvided
-* Enjoy your news
+* Enjoy your news  
+  
+# Sample
+[![News App sample](sample.jpg)](https://drive.google.com/file/d/193whHcZ-kM8CRdfpvkwGE1F38gFxmQts/view?usp=sharing "News App sample")
